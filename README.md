@@ -3,9 +3,13 @@
 Chained with Google VR SDK & free-download test videos.
 
 In this project is launched with 4 Functions:
+
 **1. Play**
+
 **2. Pause / Continue**
+
 **3. Stop**
+
 **4. Switch**
 
 When in the play mode, please press Alt + mouse right click to rotate your angle of view.
